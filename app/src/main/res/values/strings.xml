@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">days2_App</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm_Password</string>
+    <string name="enter_mobile">Enter Mobile</string>
+    <string name="enter_mobile_phone">Enter Mobile Phone</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="register">Register</string>
+    <string name="phone">Phone</string>
+    <string name="area">Area</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="zip">Zip</string>
+    <string name="retype_password">Retype Password</string>
+    <string name="phone_number">Phone Number</string>
+</resources>
